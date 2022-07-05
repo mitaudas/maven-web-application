@@ -96,17 +96,17 @@
 	
 	<distributionManagement>
 	
-	    <Release repository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Maven webapp Releases Nexus Repository</name>
 	      <url>http://3.109.210.59:9980/mitadevops/repository/Mavenweb-release/</url>
-	    </Release repository>
+	    </repository>
 	    
-	    <Snapshot Repository>
+	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven webapp Snapshot Nexus Repository </name>
 	      <url>http://3.109.210.59:9980/mitadevops/repository/Mavenweb-snapshot/</url>
-	    </Snapshot Repository>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
