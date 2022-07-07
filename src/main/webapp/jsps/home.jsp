@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to First Jenkin Job in Dev environment- GitHub Webhook Demo  .....</h1>
-<h1 align="center"> Welcome to Maven Web Application.......It will cretae Sonar Repot.. It will store Artifact in Nexus...Finally Deploy the application in Tomact Server..</h1>
+<h1 align="center">Welcome to First Jenkin Job in Dev environment- Poll SCM DEMO  .....</h1>
+<h1 align="center"> Welcome to Maven Web Application in Dev.......It will cretae Sonar Repot.. It will store Artifact in Nexus...Finally Deploy the application in Tomact Server..</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
